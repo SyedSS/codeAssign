@@ -1,0 +1,19 @@
+.data-barchart {
+  margin-top: 0;
+}
+svg rect {
+  fill: #19443c;
+}
+
+svg text {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+svg .tick text {
+  fill: #1520A6;
+}
+
+svg .tick line {
+  stroke: #C0C0BB;
+}

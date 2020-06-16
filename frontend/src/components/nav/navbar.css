@@ -1,0 +1,40 @@
+body {
+    margin-top: 0;
+}
+.nav {
+    box-sizing: border-box;
+    background-color: #8dbdd8;
+    color: #ffffff;
+    margin: 0px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 10vh;
+    width: 100vw;
+
+}
+.nav a {
+    text-decoration: none;
+    color: white;    
+}
+
+.nav-bar{
+    background-color: #8dbdd8;
+    margin: 0px;
+    min-height: 10vh;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-bar button{
+    margin: 20px 20px;
+    background-color: #19443c;
+    color: #ffffff;
+    padding: 10px;
+    border: 1px solid #19443c;
+    border-radius: 5px;
+    align-items: flex-end;
+    }
+
+

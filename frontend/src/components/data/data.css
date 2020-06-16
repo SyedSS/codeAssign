@@ -1,0 +1,29 @@
+.data-container{
+    background-color: rgb(238, 238, 236);
+}
+
+h1 {
+    color: #19443c;
+    margin: 5px 0px;
+    padding: 10px;
+}
+
+.data-barchart button{
+    background-color: #8dbdd8;
+    color: white;
+    margin: 5px;
+    padding: 9px 5px;
+    margin-top: 2px;
+    border-radius: 4%;
+    width: 90px;
+    border: #8dbdd8;
+   }
+   
+   .data-barchart button:focus {
+     outline: none;
+     cursor: pointer;
+     transform: scale(1.2);
+   }
+nav {
+    background-color: #eeeaea;
+}
